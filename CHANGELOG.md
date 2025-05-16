@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.20.1](https://github.com/openfoodfacts/smooth-app/compare/v4.20.0...v4.20.1) (2025-05-16)
+
+
+### Bug Fixes
+
+* Hotfixes on 4.20.0 ([#6600](https://github.com/openfoodfacts/smooth-app/issues/6600)) ([6b1c383](https://github.com/openfoodfacts/smooth-app/commit/6b1c38369ae7368ffc8bd8a02377d19fd0e01053))
+* New UI for the food preferences ([#6466](https://github.com/openfoodfacts/smooth-app/issues/6466)) ([db036a4](https://github.com/openfoodfacts/smooth-app/commit/db036a4c4f7b7e17beac33f6ab5ed16a961c8166))
+
 ## [4.20.0](https://github.com/openfoodfacts/smooth-app/compare/v4.19.0...v4.20.0) (2025-05-15)
 
 
